@@ -1,4 +1,4 @@
-### Hi, I'm Bhuvana 👋
+### Hi, I'm Bhuvana!
 
 **AI / ML Engineer** · M.S. Computer Science @ UC Davis · building LLM-powered products and ML systems.
 
