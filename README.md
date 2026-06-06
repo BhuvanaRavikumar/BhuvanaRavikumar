@@ -48,9 +48,9 @@ production LLM features to performance and evaluation tooling.
 - **Wafer Lens** — turns model performance-projection sweeps into two audience-specific
   views: a customer go/no-go verdict and an engineer sanity-check. Schema-driven `.xlsx`
   parser, client-side ingestion, anomaly detection. *React · TypeScript · Vite.*
-- **Brain Tumor Segmentation (BraTS'20)** — U-Net (ResNet34) for MRI tumor detection;
-  improved Dice score to 88%. *Published at IEEE ICRASET 2023.*
+- **[Brain Tumor Segmentation (BraTS'20)](https://github.com/Rithxh/Brain-Tumor-Segmentation)** — U-Net (ResNet34) for MRI tumor detection; improved Dice score to 88%. *Published at IEEE ICRASET 2023.*
 - **[Facial Emotion Detection (FER2013)](https://github.com/BhuvanaRavikumar/Face_Emotion_Detection)** — real-time emotion recognition with ResNet-18 + Tiny-ViT; accuracy 50% → 70%.
+- **[Vultra — Dependency Vulnerability Detection](https://github.com/ananya0996/vultra)** — integrates GHSA & NVD APIs to flag open-source vulnerabilities; +30% detection accuracy.
 - **[Disease Prediction System](https://github.com/BhuvanaRavikumar/Disease-Prediction-System)** — ML pipeline for predicting conditions from patient inputs.
 - **[License Plate Detector](https://github.com/BhuvanaRavikumar/License-Plate-Detector)** — computer-vision pipeline for detecting and reading license plates.
 
