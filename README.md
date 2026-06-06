@@ -7,6 +7,7 @@ production LLM features to performance and evaluation tooling.
 
 - 🔭 **Now:** AI/ML Engineer @ **HuLoop Automation** — shipping production LLM features (RAG, FastAPI, structured-output pipelines)
 - 🧪 **Research:** ML Engineer @ **SAND Lab** (UC Berkeley / CITRIS) — neural temporal point processes on physiological signals
+- 🧠 **Research:** **Lin Lab @ UC Davis** (~1.5 yrs) — single-neuron encoding & memory in naturalistic virtual navigation (neural data analysis)
 - 📄 **Published researcher** — IEEE ICRASET, IJRPR, Bay Area Memory Meeting
 - 🎓 M.S. CS, **UC Davis** (GPA 3.90) · B.E. Information Science (GPA 9.45)
 - 💬 Ask me about **LLMs, RAG, model evaluation, and ML systems**
@@ -42,15 +43,6 @@ production LLM features to performance and evaluation tooling.
 
 ---
 
-#### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BhuvanaRavikumar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanaRavikumar&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 #### 🚀 Featured work
 
 - **Wafer Lens** — turns model performance-projection sweeps into two audience-specific
@@ -58,8 +50,17 @@ production LLM features to performance and evaluation tooling.
   parser, client-side ingestion, anomaly detection. *React · TypeScript · Vite.*
 - **Brain Tumor Segmentation (BraTS'20)** — U-Net (ResNet34) for MRI tumor detection;
   improved Dice score to 88%. *Published at IEEE ICRASET 2023.*
-- **Facial Emotion Detection (FER2013)** — real-time emotion recognition with ResNet-18 +
-  Tiny-ViT; improved accuracy from 50% → 70%.
+- **[Facial Emotion Detection (FER2013)](https://github.com/BhuvanaRavikumar/Face_Emotion_Detection)** — real-time emotion recognition with ResNet-18 + Tiny-ViT; accuracy 50% → 70%.
+- **[Disease Prediction System](https://github.com/BhuvanaRavikumar/Disease-Prediction-System)** — ML pipeline for predicting conditions from patient inputs.
+- **[License Plate Detector](https://github.com/BhuvanaRavikumar/License-Plate-Detector)** — computer-vision pipeline for detecting and reading license plates.
+
+---
+
+#### 📄 Selected publications
+
+- A. Shankar, **B. Ravi Kumar**, J. J. Geng, J. J. Lin — *Single-Neuron Encoding of Events in a Naturalistic Virtual Navigation Task*, Bay Area Memory Meeting, 2025.
+- H. S., R. Anand, **B. Ravi Kumar**, M. Nikitha — *U-Net Based Brain Tumour Segmentation*, IEEE ICRASET, 2023.
+- H. S., **B. Ravi Kumar** — *Multimodal Approaches for Depression Detection: A Comprehensive Review*, IJRPR, 2024.
 
 ---
 
